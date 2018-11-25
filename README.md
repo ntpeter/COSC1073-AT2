@@ -1,5 +1,5 @@
 # COSC1073 AT2 | Robot Simulation Part B
-**Course Name:** Programming 1
+**Course Name:** Programming 1 (2017, Semester 2)
 
 A modified version of the Java project “COSC1073 AT1 | Robot Simulation Part A” that uses the Lanterna terminal emulator package to draw ASCII characters in order to show the robot arm and block movement, instead of using the original GUI.
 
